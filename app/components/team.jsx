@@ -53,7 +53,7 @@ const Team = () => {
         </div>
         <p className="text-xl font-extrabold mt-2">Skylah Lu</p>
         </div>
-        <div className="w-[156px] h-[237px] md:w-[264px] md:h-[383px] mt-32">
+        <div className="w-[156px] h-[237px] md:w-[264px] md:h-[383px] md:mt-32">
             <div className="">
             <p className="rotate-90 transform origin-bottom uppercase font-medium absolute z-10 mt-4 ml-[95px] md:ml-[195px] ">developer</p>
         <Image
